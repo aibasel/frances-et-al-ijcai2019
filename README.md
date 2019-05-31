@@ -15,7 +15,7 @@ https://github.com/aibasel/basilisk
 
 ## Software Requirements
 
-The code is developed in Python and requires both **Python 3.6+** and a working installation of IBM CPLEX,
+The code is developed in Python and requires both **Python 3.5+** and a working installation of IBM CPLEX,
 which can be obtained free of charge for academic purposes, along with its Python API. The installation instructions 
 and experiment results have been tested on an Ubuntu 16.04 machine with Python 3.5.2 and CPLEX 12.8. 
 
